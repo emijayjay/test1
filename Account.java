@@ -7,9 +7,9 @@ public class Account {
 	private String name;
 	
 	// Constructor with balance only
-	public Account(double balance) {
-		this("Unkown", balance);
-	}
+//	public Account(double balance) {
+//		this("Unkown", balance);
+//	}
 	
 	// Constructor with both parameters provided
 	public Account (String name, double balance) {
